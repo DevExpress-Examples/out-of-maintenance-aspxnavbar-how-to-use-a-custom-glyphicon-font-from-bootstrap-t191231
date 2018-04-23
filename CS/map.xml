@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item Text="Admin" CssClass="glyphicon glyphicon-search">
+    <item Text="Scheduler"/>
+    <item Text="Clients"/>
+    <item Text="Users" />
+  </item>
+  <item Text="User" CssClass="glyphicon glyphicon-dashboard">
+    <item Text="Notes"/>
+    <item Text="Repors"/>
+  </item>
+</items>
