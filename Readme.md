@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [map.xml](./CS/map.xml) (VB: [map.xml](./VB/map.xml))
+<!-- default file list end -->
 # ASPxNavBar - How to use a custom Glyphicon font from Bootstrap
 
 
